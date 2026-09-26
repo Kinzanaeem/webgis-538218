@@ -35,7 +35,7 @@ The working Leaflet map of Islamabad with the NUST H-12 marker. The Network tab 
 The same map served from GitHub Pages at the public `github.io` address.
 
 ![Checkpoint 5](images/cp5.png)
-
+It is now deployed and visible.
 ---
 
 ## Questions
